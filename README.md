@@ -2,6 +2,6 @@
 
 
 
-![demo](https://github.com/Ahmedmedhat187/flutter_app_shopping_cart/blob/master/cart.png)
+![demo](https://github.com/Ahmedmedhat187/flutter_app_shopping_cart/blob/master/cart.jpg)
 
 
